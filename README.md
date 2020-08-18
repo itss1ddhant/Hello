@@ -1,8 +1,8 @@
-Tuber-time Communications
+Hello!
 =========================
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-[![Code Climate](https://codeclimate.com/github/trailofbits/tubertc/badges/gpa.svg)](https://codeclimate.com/github/trailofbits/tubertc)
+[![Code Climate](https://codeclimate.com/github/trailofbits/tubertc/badges/gpa.svg)](https://codeclimate.com/github/itss1ddhant/Hello)
 [![Slack Status](https://empireslacking.herokuapp.com/badge.svg)](https://empireslacking.herokuapp.com)
 
 Peer-to-peer video chat that works. It's tuber-time!
@@ -32,7 +32,7 @@ tubertc supports Heroku as a demonstration platform. Deployment can be done via 
 
 ```
 heroku login
-git clone https://github.com/trailofbits/tubertc.git
+git clone https://github.com/itss1ddhant/Hello.git
 cd tubertc
 heroku create --http-git
 git push heroku master
