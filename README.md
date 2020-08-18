@@ -33,7 +33,7 @@ tubertc supports Heroku as a demonstration platform. Deployment can be done via 
 ```
 heroku login
 git clone https://github.com/itss1ddhant/Hello.git
-cd tubertc
+cd Hello
 heroku create --http-git
 git push heroku master
 heroku ps:scale web=1
