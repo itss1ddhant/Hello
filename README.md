@@ -5,7 +5,7 @@ Hello!
 [![Code Climate](https://codeclimate.com/github/trailofbits/tubertc/badges/gpa.svg)](https://codeclimate.com/github/itss1ddhant/Hello)
 [![Slack Status](https://empireslacking.herokuapp.com/badge.svg)](https://empireslacking.herokuapp.com)
 
-Peer-to-peer video chat that works. It's tuber-time!
+Peer-to-peer video chat that works. 
 
 ## Features
 * Video chat with up to 15 people (limited only by user interface)
@@ -28,7 +28,7 @@ Peer-to-peer video chat that works. It's tuber-time!
 * [NodeJS](https://nodejs.org/)
 
 ## Install to Heroku
-tubertc supports Heroku as a demonstration platform. Deployment can be done via the one-click [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/trailofbits/tubertc) button or the commands below:
+Hello supports Heroku as a demonstration platform. Deployment can be done via the one-click [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/itss1ddhant/Hello) button or the commands below:
 
 ```
 heroku login
