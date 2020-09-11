@@ -44,18 +44,3 @@ heroku logs --tail
 ## Configuration
 The server port, debug level, and SSL settings are configured via the `settings.json` file. tubertc uses port 8080, debug mode, and HTTP by default.
 
-## Testimonials
-
-> tubertc is the most usable open source video chat I've seen
-
--- [Kyle McDonald](https://twitter.com/kcimc/status/676820782228590592)
-
-## FAQ
-
-### I'm using Chrome and I get a PermissionDeniedError
-
-Chrome 47 and higher block non-TLS access to WebRTC. Try accessing Tuber with HTTPS. If you would like to help us develop Tuber, please consider writing [tools that assist with the creation and installation of TLS certificates](https://github.com/trailofbits/tubertc/issues/54) for local installations.
-
-### Some users can't send or receive audio/video
-
-Tuber has trouble talking with users behind NAT. Supporting users behind NAT requires a [properly configured and tested STUN/TURN server](https://github.com/trailofbits/tubertc/issues/8). As it stands, Tuber works fine on most corporate LANs but, due to this issue, has trouble working reliably on the open internet.
