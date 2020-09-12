@@ -5,7 +5,7 @@ Hello!
 [![Code Climate](https://codeclimate.com/github/trailofbits/tubertc/badges/gpa.svg)](https://codeclimate.com/github/itss1ddhant/Hello)
 [![Slack Status](https://empireslacking.herokuapp.com/badge.svg)](https://empireslacking.herokuapp.com)
 
-Peer-to-peer video chat that works. 
+An attempt to Peer-to-peer video chat that works. 
 
 ## Features
 * Video chat with up to 15 people (limited only by user interface)
