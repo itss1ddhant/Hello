@@ -2,7 +2,6 @@ Hello!
 =========================
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-[![Slack Status](https://empireslacking.herokuapp.com/badge.svg)](https://empireslacking.herokuapp.com)
 
 An attempt to Peer-to-peer video chat that works. 
 
